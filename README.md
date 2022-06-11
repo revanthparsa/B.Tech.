@@ -1,1 +1,1 @@
-# B.Tech.
+Rangoli laying robot project
