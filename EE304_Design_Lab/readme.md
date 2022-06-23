@@ -1,1 +1,0 @@
-Rangli laying robot 
